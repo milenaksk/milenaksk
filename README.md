@@ -1,12 +1,16 @@
-<div>
-  <h1 align="center">Oi, tudo bem? Sou a <a href="https://www.linkedin.com/in/milena-crist-4b2b88205/">Milena</a> 👩‍💻</h1>
-  <p align="center"><i>Eu sou estudante de programação</i> 😊 </p>
-  </a><br>
-
+<div> 
+  <h1 align="center"> Hi! I'm Milena! 🖤</h1>
+  <br>
+  <p>About me ⬇️</p>
+  <ul>
+    <li>I'm a programming student 🤓</li>
+    <li>I'm currently studying HTML, CSS & JavaScript 👩‍💻</li>
+  </ul>
 </div>
 
 
 <div align="center">
+  <h2>GitHub Stats</h2>
   <a href="https://github.com/milenaksk">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milenaksk&count_private=true&include_all_commits=true&show_icons=true&theme=synthwave&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaksk&theme=synthwave&hide_border=false&&layout=compact"/>
