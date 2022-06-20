@@ -35,3 +35,5 @@
   <a href="https://www.linkedin.com/in/milena-crist-4b2b88205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:cristinemilena32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+[![Spotify](https://milenaksk.vercel.app/api/spotify)](https://open.spotify.com/user/hxczkfg1yjvqghvcso0i9domn)
