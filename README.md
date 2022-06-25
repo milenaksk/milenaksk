@@ -36,4 +36,4 @@
   <a href="mailto:cristinemilena32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-[![Spotify](https://milenaksk.vercel.app/api/spotify)](https://open.spotify.com/user/hxczkfg1yjvqghvcso0i9domn)
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
