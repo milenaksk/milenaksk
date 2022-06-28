@@ -1,5 +1,6 @@
 <div> 
   <h1> Hi! I'm Milena! 🖤</h1>
+  <br>
   <img src="octocat/octocat3.png" width= 253px; height= 253px;>
   <br>
   <p>About me ⬇️</p>
@@ -21,7 +22,9 @@
   </a>
 </div>
 
-<div><br>
+<br>
+
+<div>
   
   <h2>What I am focusing on 💡</h2>
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +32,9 @@
   <img alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-</div><br>
+</div>
+
+<br>
 
 <div>
   <h2>Find me 🌎</h2>
