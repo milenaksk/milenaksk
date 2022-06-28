@@ -1,7 +1,7 @@
 <div> 
   <h1> Hi! I'm Milena! 🖤</h1>
   <br>
-  <img src="octocat/octocat3.png" width= 253px; height= 253px;>
+  <img src="octocat/octocat-1656441755818.png" width= 253px; height= 253px;>
   <br>
   <p>About me ⬇️</p>
   <ul>
