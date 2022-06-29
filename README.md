@@ -34,7 +34,7 @@
   <img alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
   <img alt="figma" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
-  
+  <img alt="vscode" height="33" width="33" src="https://github.com/stackdev37/stackdev37/raw/main/images/vscode.png">
 </div>
 
 <br>
