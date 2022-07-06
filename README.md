@@ -1,7 +1,6 @@
 <div> 
   <h1> Hi! I'm Milena! 🖤</h1>
   <br>
-  <img src="octocat/octocat-1656441755818.png" width= 253px; height= 253px;>
   <br>
   <p>About me ⬇️</p>
   <ul>
@@ -12,7 +11,7 @@
     <li>I love videogames, but no time to play 🎮</li>
   </ul>
 
-  <img align="right" src="https://www.fightersgeneration.com/np5/kof13/kula-kof13-stance.gif">
+  <img align="center" src="https://www.fightersgeneration.com/np7/char/gifs/kula/attacks/kula-super3.gif">
 
 </div>
 
