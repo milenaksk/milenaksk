@@ -1,7 +1,5 @@
 <div> 
   <h1> Hi! I'm Milena! 🖤</h1>
-  <br>
-  <br>
   <p>About me ⬇️</p>
   <ul>
     <li>She/Her </li>
@@ -10,9 +8,7 @@
     <li>I love music 🎶</li>
     <li>I love videogames, but no time to play 🎮</li>
   </ul>
-
   <img align="center" src="https://www.fightersgeneration.com/np7/char/gifs/kula/attacks/kula-super3.gif">
-
 </div>
 
 
