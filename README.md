@@ -6,7 +6,6 @@
   <ul>
     <li>She/Her </li>
     <li>I'm a programming student 🤓</li>
-    <li>I'm currently studying HTML, CSS & JavaScript 👩‍💻</li>
     <li>I love music 🎶</li>
     <li>I love videogames, but no time to play 🎮</li>
   </ul>
@@ -19,8 +18,8 @@
 <div>
   <h2>GitHub Stats 📈</h2>
   <a href="https://github.com/milenaksk">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milenaksk&count_private=true&include_all_commits=true&show_icons=true&theme=radical&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaksk&theme=radical&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milenaksk&count_private=true&include_all_commits=true&show_icons=true&theme=	cobalt&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaksk&theme=cobalt&hide_border=false&&layout=compact"/>
   </a>
 </div>
 
