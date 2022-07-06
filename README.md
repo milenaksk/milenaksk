@@ -11,6 +11,9 @@
     <li>I love music 🎶</li>
     <li>I love videogames, but no time to play 🎮</li>
   </ul>
+
+  <img align="right" src="https://www.fightersgeneration.com/np5/kof13/kula-kof13-stance.gif">
+
 </div>
 
 
@@ -48,3 +51,5 @@
 <br>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+ 
