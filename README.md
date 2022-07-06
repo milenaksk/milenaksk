@@ -6,6 +6,7 @@
   <ul>
     <li>She/Her </li>
     <li>I'm a programming student 🤓</li>
+    <li>I'm currently studying HTML, CSS & JavaScript 👩‍💻</li>
     <li>I love music 🎶</li>
     <li>I love videogames, but no time to play 🎮</li>
   </ul>
