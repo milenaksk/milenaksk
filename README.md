@@ -14,8 +14,7 @@
 
 <div>
   <h2>GitHub Stats 📈</h2>
-
-<a href="https://github.com/milenaksk">
+  <a href="https://github.com/milenaksk">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milenaksk&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaksk&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
@@ -25,11 +24,8 @@
 
 
 </div>
-
 <br>
-
 <div>
-  
   <h2>What I am focusing on 💡</h2>
   <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -52,11 +48,9 @@
 <br>
 
 <div>
-<h2>Listening... </h2>
+<h2>Listening... 🎶</h2>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
 
-
- 
