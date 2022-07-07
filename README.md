@@ -51,6 +51,12 @@
 
 <br>
 
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<div>
+<h2>Listening... </h2>
+
+ [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+
+</div>
+
 
  
