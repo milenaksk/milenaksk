@@ -1,5 +1,7 @@
-<div> 
-  <h1> Hi! I'm Milena! 🖤</h1>
+<div>  
+
+![result (1)](https://user-images.githubusercontent.com/92604633/180043554-95982356-eef3-4591-9081-6d8cb1e546fa.gif)
+  
   <p>About me ⬇️</p>
   <ul>
     <li>She/Her </li>
@@ -8,9 +10,9 @@
     <li>I love music 🎶</li>
     <li>I love videogames, but no time to play 🎮</li>
   </ul>
-  <img align="center" src="https://www.fightersgeneration.com/np7/char/gifs/kula/attacks/kula-super3.gif">
 </div>
 
+<br>
 
 <div>
   <h2>GitHub Stats 📈</h2>
@@ -18,10 +20,6 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=milenaksk&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaksk&theme=midnight-purple&hide_border=false&&layout=compact"/>
   </a>
-
-
-
-
 
 </div>
 <br>
@@ -48,7 +46,7 @@
 <br>
 
 <div>
-<h2>Listening to... 🎶</h2>
+<h2>Listening... 🎶</h2>
 
  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
 
