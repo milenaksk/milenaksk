@@ -10,9 +10,12 @@
     <li>I love music 🎶</li>
     <li>I love videogames, but no time to play 🎮</li>
   </ul>
+  
+   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
+  
+  
 </div>
 
-<br>
 
 <div>
   <h2>GitHub Stats 📈</h2>
@@ -41,14 +44,5 @@
   <h2>Find me 🌎</h2>
   <a href="https://www.linkedin.com/in/milena-crist-4b2b88205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:cristinemilena32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
-<br>
-
-<div>
-<h2>Listening... 🎶</h2>
-
- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
-
 </div>
 
