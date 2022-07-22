@@ -37,12 +37,3 @@
   <img alt="mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   <img alt="vscode" height="33" width="33" src="https://github.com/stackdev37/stackdev37/raw/main/images/vscode.png">
 </div>
-
-<br>
-
-<div>
-  <h2>Find me 🌎</h2>
-  <a href="https://www.linkedin.com/in/milena-crist-4b2b88205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:cristinemilena32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
-
