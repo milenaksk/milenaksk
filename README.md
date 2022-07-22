@@ -1,6 +1,6 @@
 <div>  
 
-![result (1)](https://user-images.githubusercontent.com/92604633/180043554-95982356-eef3-4591-9081-6d8cb1e546fa.gif)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=BA29F7&lines=Welcome+to+my+GitHub+Profile;I'm+Milena+)](https://git.io/typing-svg)
   
   <p>About me ⬇️</p>
   <ul>
