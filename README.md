@@ -13,6 +13,7 @@
   
    [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=hxczkfg1yjvqghvcso0i9domn&cover_image=true&theme=novatorem)](https://github.com/kittinan/spotify-github-profile)
   
+  ![](https://komarev.com/ghpvc/?username=milenaksk&color=blueviolet)
   
 </div>
 
