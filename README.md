@@ -1,6 +1,6 @@
 <div align="center">  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=BA29F7&lines=Welcome+to+my+GitHub+Profile;I'm+Milena+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE18F7&lines=Be+Welcome+to+My+Github+Profile!;I'm+Milena!)](https://git.io/typing-svg)
   
    ![](https://komarev.com/ghpvc/?username=milenaksk&color=blueviolet)
   
