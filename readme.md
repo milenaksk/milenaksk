@@ -1,12 +1,7 @@
 <div align="center">  
 
-![bc87e5124f8d2cfe810d403adc96ad01](https://user-images.githubusercontent.com/92604633/185774504-d6deb2a9-c34c-490c-a7e5-c118d6eaf3a0.gif)
-<br>
-<br>
-<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=AE18F7&lines=Be+Welcome+to+My+Github+Profile!;I'm+Milena!)](https://git.io/typing-svg)
 
- 
 </div>
 
 <div align="center">
