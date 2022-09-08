@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" />
 </div>
 
-<h1>GitHub Stats</h1>
+<h1 align="center">GitHub Stats</h1>
 
 <div align="center">
   <a href="https://github.com/milenaksk">
