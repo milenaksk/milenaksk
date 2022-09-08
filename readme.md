@@ -1,8 +1,3 @@
-<div align="center">
-
-![image](https://user-images.githubusercontent.com/92604633/188652173-e8c9f5a8-4d9b-4b5f-aefe-0066dc1e5f8b.png)
-
-</div>
 
 <div align="center">
 
