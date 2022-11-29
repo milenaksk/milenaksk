@@ -22,6 +22,5 @@
 
 <div align="center">
   <img src="https://custom-icon-badges.demolab.com/badge/Rio de Janeiro-Brazil-purple?style=for-the-badge&logo=location&logoColor=white"></img>
-  <img src="https://custom-icon-badges.demolab.com/badge/-cristinemilena32@gmail.com-red?style=for-the-badge&logo=mention&logoColor=white"><img>
 </div>
     
