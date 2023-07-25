@@ -44,7 +44,7 @@ Welcome to my GitHub Profile!
 <br>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/milena-cristine/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://www.linkedin.com/in/milena-cristine/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 </div>
 
 
