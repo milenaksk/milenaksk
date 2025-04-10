@@ -7,7 +7,6 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 ### 📊 GitHub Stats
 
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=milenaksk&theme=shadow_red&show_icons=true" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=milenaksk&layout=compact&theme=shadow_red" width="48%" />
 </div>
 
