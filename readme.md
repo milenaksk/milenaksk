@@ -26,9 +26,4 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
----
-
-### 📫 Let's Connect
-
-Você pode me encontrar por aqui em breve... (adicione seus links de contato se quiser: LinkedIn, portfólio, etc)
 
