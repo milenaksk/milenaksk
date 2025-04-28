@@ -33,7 +33,4 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
   <a href="https://www.youtube.com/@mmyilena">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
   </a>
-  <a href="https://br.pinterest.com/milena_castor/">
-    <img alt="Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" />
-  </a>  
 </p>
